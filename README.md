@@ -15,15 +15,15 @@ This is a README file for the React project. The project includes a bash script 
 
 2. Change into the project directory:
 
-  ```bash
+   ```bash
    cd your-react-project
 
 3. Set executable permissions for the runDocker.sh script:
 
-  ```bash
+   ```bash
    chmod +x runDocker.sh
 
 4. Run the script to start the project using Docker:
 
-  ```bash
+   ```bash
    ./runDocker.sh
